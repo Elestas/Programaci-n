@@ -1,0 +1,29 @@
+{"personajes": [
+   {
+    	"nombre": "jane_hoyle",
+        "hombre": false,
+        "edad": 31,
+        "clase": ["charlatan","erudita"],
+        "residencia": "chicago"
+    }
+,
+
+    {
+        "nombre": "danton",
+        "hombre": true,
+        "edad": 37,
+        "clase": ["ilusionista","portalomante"],
+        "residencia": "paris"
+},
+{
+        "nombre": "jack_peres",
+        "hombre": true,
+        "edad": 45,
+        "clase": ["ingeniero","filantropo","playboy"],
+        "residencia": "dodge_city"
+}
+]
+}
+
+
+	

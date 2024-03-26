@@ -1,0 +1,39 @@
+
+
+<ClubHoyle>
+	<Miembro>
+		<nombre>JaneHoyle</nombre>
+		<sexo>mujer</sexo>
+		<clase>charlatán</clase>
+		<edad>31</edad>
+		<residencia>Chicago</residencia>
+	</Miembro>
+	<Miembro>
+		<nombre>Danton</nombre>
+		<sexo>varón</sexo>
+		<clase>portalomante</clase>
+		<edad>37</edad>
+		<residencia>París</residencia>
+	</Miembro>
+	<Miembro>
+		<nombre>Scarlett</nombre>
+		<sexo>mujer</sexo>
+		<clase>Acróbata</clase>
+		<edad>35</edad>
+		<residencia>Boston</residencia>
+	</Miembro>
+	<Miembro>
+		<nombre>RobertHolmes</nombre>
+		<sexo>varón</sexo>
+		<clase>Detective</clase>
+		<edad>36</edad>
+		<residencia>Londres</residencia>
+	</Miembro>
+	<Miembro>
+		<nombre>IanMeltzger</nombre>
+		<sexo>varón</sexo>
+		<clase>magnetomante</clase>
+		<edad>67</edad>
+		<residencia>Berlín</residencia>
+	</Miembro>
+</ClubHoyle>

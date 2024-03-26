@@ -1,0 +1,13 @@
+{"trivial": [
+    {"categoria": "geografia",
+    "pregunta": "¿cual es la capital de españa?",
+    "opciones": ["barcelona","valencia","lost angel","madrid"],
+    "respuesta": 3    
+    },
+    {"categoria": "ciencias",
+    "pregunta": "¿cual es la ley que se aplica a la caida de los objetos",
+    "opciones": ["La de murphy","el codigo penal","la gravedad"],
+    "respuesta": 2    
+    }
+    ]
+}

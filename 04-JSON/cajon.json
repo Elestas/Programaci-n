@@ -1,0 +1,15 @@
+{"cocina": [
+    {
+    "cajon": {
+        "cubiertos": ["tenedor", "cuchillo"],
+        "utensilios": ["paleta, sacacorchos"]
+            }
+    },
+    {
+    "cajon": {
+        "cubiertos": ["cuchara","rcucharilla"],
+        "utensilios": ["rallador, sacacorchos"]
+             }
+    }
+]
+}

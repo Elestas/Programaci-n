@@ -1,0 +1,12 @@
+{ 
+    "cajon": "cocina",
+    "texto": "baño",
+    "numero": 7, 
+    "booleantrue": true, 
+    "booleanfalse": false,  
+    "array": ["oeste","norte","sur"],
+    "objeto": {
+        "caja1": "peine",
+        "caja2": "cepillo"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "cajon1": {
+      "calcetines": ["negros","blancos","cuadros"],
+      "corbatas": ["rojas","negras","azules"],
+      "peines": ["1, 2, 3, 4, 5"],     
+      "calzoncillos": ["blancos","negros","coloridos"],
+      "cinturones": ["marrones","negros"],
+      "cepillos": ["2 grandes","3 pequeños"]
+    } 
+}
